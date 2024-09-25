@@ -1,0 +1,8 @@
+/Users/bahafidabdessadek/Desktop/Microservices/Learning/Tests/microservice-app/product-service/src/main/java/com/product/ProductMicroServiceApplication.java
+/Users/bahafidabdessadek/Desktop/Microservices/Learning/Tests/microservice-app/product-service/src/main/java/com/product/controller/ProductController.java
+/Users/bahafidabdessadek/Desktop/Microservices/Learning/Tests/microservice-app/product-service/src/main/java/com/product/dtos/ProductRequest.java
+/Users/bahafidabdessadek/Desktop/Microservices/Learning/Tests/microservice-app/product-service/src/main/java/com/product/dtos/ProductResponse.java
+/Users/bahafidabdessadek/Desktop/Microservices/Learning/Tests/microservice-app/product-service/src/main/java/com/product/repository/ProductRepository.java
+/Users/bahafidabdessadek/Desktop/Microservices/Learning/Tests/microservice-app/product-service/src/main/java/com/product/service/IProductService.java
+/Users/bahafidabdessadek/Desktop/Microservices/Learning/Tests/microservice-app/product-service/src/main/java/com/product/service/ProductServiceImp.java
+/Users/bahafidabdessadek/Desktop/Microservices/Learning/Tests/microservice-app/product-service/src/main/java/com/product/service/model/Product.java
